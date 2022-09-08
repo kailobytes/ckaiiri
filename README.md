@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ckaiiri
-- 👀 I’m interested in data science and web design/development.
-- 🌱 I’m currently learning CS50x.
+- 👀 
+- 🌱 
 
 <!---
 ckaiiri/ckaiiri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
