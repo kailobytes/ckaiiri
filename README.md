@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @kailobytes
-- 👀 
-- 🌱 
+- 👋 Hi, I’m @kailobytes!
+- 👀 I'm a first year Computer Science student specializing in Data Science.
+- 🌱 I am an aspiring Data Scientist and a Web Developer.
 
 <!---
 ckaiiri/ckaiiri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
