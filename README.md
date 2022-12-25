@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kailobytes!
+- 👋 Hi, I’m @reicursion!
 - 👀 I'm a first year Computer Science student specializing in Data Science.
 - 🌱 I am an aspiring Data Scientist and a Web Developer.
 
